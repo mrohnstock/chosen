@@ -17,9 +17,7 @@
         "name": "harvest"
     },
     "require": {
-        "robloach/component-installer": "*"
-    },
-    "require": {
+        "robloach/component-installer": "*",
         "components/jquery": ">=1.4.4"
     },
     "extra": {

@@ -2,7 +2,7 @@
     "name": "drmonty-chosen",
     "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
     "homepage": "http://harvesthq.github.io/chosen/",
-    "version": "1.4.2",
+    "version": "1.5.0",
     "keywords": [
         "select",
         "multiselect",
@@ -15,7 +15,7 @@
     "main": "js/chosen.jquery.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drmonty/chosen.git"
+        "url": "https://github.com/mrohnstock/chosen.git"
     },
     "licenses": [
         {
