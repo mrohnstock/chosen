@@ -2,7 +2,7 @@
     "name": "drmonty-chosen",
     "repo": "drmonty/chosen",
     "description": "Chosen is a library for making long, unwieldy select boxes more friendly.",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "homepage": "http://harvesthq.github.io/chosen/",
     "license": "MIT",
     "keywords": [
