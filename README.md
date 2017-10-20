@@ -1,10 +1,8 @@
-chosen
-======
+chosen (ABANDONED)
+==================
 
-Shim repository for http://github.com/harvesthq/chosen
+This package is **abandoned** and no longer maintained. The [components](https://github.com/components)-project took over this shim, so update your `composer.json` by using the following repository:
 
-Package Managers
-----------------
+https://github.com/components/chosen
 
-* [Composer](http://packagist.org/packages/drmonty/chosen): `drmonty/chosen`
-* [Component](http://component.io): `drmonty/chosen`
+Thanks :)
